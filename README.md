@@ -1,7 +1,8 @@
-## Hi there! My name is Cleyciane Farias! 👋
+# :woman_technologist: Cleyciane Farias
+## Hi there! 👋
 ### Welcome to my profile, I'm just a computer student, studying programming and taking courses in the area haha! 😊
 
-<div align="center">
+<div align="rigth">
 
 <i>Follow me:</i><br>
 
