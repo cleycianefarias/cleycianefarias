@@ -1,6 +1,6 @@
 # :woman_technologist: Cleyciane Farias
 ## Hi there! 👋
-### Welcome to my profile, I'm just a computer student, studying programming and taking courses in the area haha! 😊
+#### Welcome to my profile, I'm just a computer student, studying programming and taking courses in the area haha! 😊
 
 <div align="rigth">
 
