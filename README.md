@@ -23,4 +23,4 @@ A little about myself:
 #### **Visitors on my profile**
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cleycianefarias)
 
-![Cleyciane Faria's github stats](https://github-readme-stats.vercel.app/api?username=cleycianefarias=["issues","contribs"]&show_icons=true&hide_border=true)
+![Cleyciane Faria's github stats](https://github-readme-stats.vercel.app/api?username=cleycianefarias&show_icons=true&theme=radical)
